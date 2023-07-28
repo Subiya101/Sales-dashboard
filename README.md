@@ -23,7 +23,7 @@ The Table visualizes sales data for each city in various markets. It allows a gr
 Link to watch: https://clipchamp.com/watch/S9B8AA65wSH
 
 
-Power BI Dashboard:
+
 
 
 
