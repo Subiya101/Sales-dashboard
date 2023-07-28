@@ -2,8 +2,9 @@
 
 The Sales Performance Dashboard Repository Showcases a Comprehensive Power BI Dashboard that provides Valuable Insights into Sales.  This Power BI project offers a comprehensive overview of our sales transactions, customer behaviour and shipping preferencesThis project is designed to present key information and trends to stakeholders, enabling informed decision-making,
 
-**Visual description**:
-	Key Performance Indicators :
+**Visual description**
+
+**Key Performance Indicators** :
 This dashboard displays metrices such as total profit, total profit, average discount, average quantity. KPI’s should be meaningful, measurable, and align with the overall business strategy. 
 
 **Doughnut Charts**:
