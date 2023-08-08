@@ -23,6 +23,7 @@ The Table visualizes sales data for each city in various markets. It allows a gr
 Link to watch: https://clipchamp.com/watch/S9B8AA65wSH
 
 
+![Screenshot 2023-07-27 185031](https://github.com/Subiya101/Sales-dashboard/assets/136356321/0e26be7c-200f-4e41-8e36-aa8b0bee20ed)
 
 
 
