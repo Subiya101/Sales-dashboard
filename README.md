@@ -26,5 +26,5 @@ Link to watch: https://clipchamp.com/watch/S9B8AA65wSH
 ![Screenshot 2023-07-27 185031](https://github.com/Subiya101/Sales-dashboard/assets/136356321/0e26be7c-200f-4e41-8e36-aa8b0bee20ed)
 
 
-
+![Screenshot 2023-07-27 185116](https://github.com/Subiya101/Sales-dashboard/assets/136356321/79ed2259-1186-4038-888d-c2b6d350ecb7)
 
